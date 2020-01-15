@@ -9,4 +9,10 @@
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#quick-start)
-[Get Started](#quick-start
+[Get Started](#quick-start)
+
+<!-- 背景图片 -->
+![](_media/bg.png)
+
+<!-- 背景色 -->
+![color](#2f4253)
